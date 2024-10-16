@@ -1,8 +1,7 @@
-# Theme
-JANGAN DIJUAL BELAKAN YE BWANG !!!
-BUTUH LICENSE/PW CHAT TELE GUA
->>X>> 
+# X-AutoInstaller
+>> X-Faxz
 
-Comand Run Install Thema
-
-bash <(curl https://raw.githubusercontent.com/RafatharUserbotV4/Rafaxamalia/main/install.sh)
+Command X-installer
+```
+bash <(curl https://raw.githubusercontent.com/X-Faxz/X-installer/main/install.sh)
+```
