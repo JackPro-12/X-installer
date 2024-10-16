@@ -508,7 +508,7 @@ while true; do
   echo -e "${RED}        _,gggggggggg.                                     ${NC}"
   echo -e "${RED}    ,gggggggggggggggggg.                                  ${NC}"
   echo -e "${RED}  ,ggggg            qgggg.                                ${NC}"
-  echo -e "${RED} ,ggg'                'ggg.                               ${NC}"
+  echo -e "${RED},gggg'                'ggg.                               ${NC}"
   echo -e "${RED}gggg    ,ggg.          'ggg:                              ${NC}"
   echo -e "${RED}ggg   ,gg'''  .         ggg   X-Installer AlwaysFaxz      ${NC}"
   echo -e "${RED}ggg    gg     ,         ggg   ------------------------    ${NC}"
