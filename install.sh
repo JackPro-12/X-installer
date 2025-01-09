@@ -62,7 +62,7 @@ check_token() {
   echo -e "${YELLOW}MASUKAN PASSWORD UNTUK AKSES :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "faxzsygnindya" ]; then
+  if [ "$USER_TOKEN" = "FaxzOnlyMozza" ]; then
     echo -e "${GREEN}PASSWORD BENAR AKSES DI BERIKAN √${NC}}"
   else
     echo -e "${GREEN}Buy dulu Gih Ke AlwaysFaxz${NC}"
